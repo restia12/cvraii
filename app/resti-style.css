@@ -1,0 +1,10 @@
+.fotoku{
+    border-radius: 50%;
+    max-height: 200px;
+    max-width: 200px;
+    margin: 15px auto;
+    display: block;
+    border: solid 5px rgba(207, 197, 197, 0.719);
+    box-shadow: 1px 1px 15px rgb(221, 185, 131);
+
+}
